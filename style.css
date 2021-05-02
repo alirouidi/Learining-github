@@ -1,0 +1,22 @@
+.frst-div {
+    margin: 5%;
+    justify-content: flex-end;
+}
+
+.cell {
+    border-bottom: dashed 4px;
+    border-top: dashed 4px;
+    border-left: dashed 4px;
+    border-right: dashed 4px;
+    width: 300px;
+    height: 300px;
+}
+
+#ali.4 {
+    border-bottom: dashed 4px;
+    border-top: dashed 4px;
+    border-left: dashed 4px;
+    border-right: dashed 4px;
+    width: 300px;
+    height: 300px;
+}
